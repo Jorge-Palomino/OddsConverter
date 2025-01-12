@@ -1,0 +1,16 @@
+PODS:
+  - OddsConverter (0.1.0)
+
+DEPENDENCIES:
+  - OddsConverter (from `../`)
+
+EXTERNAL SOURCES:
+  OddsConverter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OddsConverter: c6bdc98a917230e1a9ec06bfcf9ed8418b4b7ed0
+
+PODFILE CHECKSUM: 6bbf09cf2fb80857e27754100c3e5cfc4a060383
+
+COCOAPODS: 1.15.2
