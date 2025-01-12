@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-  'Convert odds between american, decimal, and fractional formats.'
+  'OddsConverter aim is to convert odds between american, decimal, and fractional formats.'
                        DESC
 
   s.homepage         = 'https://github.com/Jorge-Palomino/OddsConverter'
