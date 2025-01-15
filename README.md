@@ -72,8 +72,4 @@ OddsConverter is available under the MIT license. See the LICENSE file for more 
 
 Jorge Palomino, imvisno@gmail.com
 
-## License
-
-StompClientLib is available under the MIT license. See the LICENSE file for more info.
-
 ⌨️ with ♡ by [J. Palomino](https://github.com/Jorge-Palomino) 😈
